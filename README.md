@@ -11,7 +11,6 @@ In this project, we explore the unique challenge of predicting multiple genres f
 - `data/`: Contains the dataset with plot summaries and genre labels.
 - `notebooks/`: Jupyter notebooks for data preprocessing, feature engineering, model training, and evaluation.
 - `models/`: Trained models and model evaluation metrics.
-- `scripts/`: Utility scripts for data preprocessing and evaluation.
 - `requirements.txt`: List of Python dependencies.
 
 ## Getting Started
