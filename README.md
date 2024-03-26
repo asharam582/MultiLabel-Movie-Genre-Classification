@@ -18,12 +18,13 @@ In this project, we explore the unique challenge of predicting multiple genres f
 1. Clone this repository:
 
 git clone https://github.com/asharam582/multi-label-movie-genre-classification.git
+
 cd multi-label-movie-genre-classification
 
 2. Install dependencies:
 
 3. pip install -r requirements.txt 
-3. Explore the notebooks in the `notebooks/` directory for data preprocessing, model training, and evaluation.
+3. Explore the notebook for data preprocessing, model training, and evaluation.
 
 4. Experiment with different models, feature engineering techniques, and hyperparameters to improve performance.
 
